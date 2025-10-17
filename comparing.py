@@ -1,0 +1,11 @@
+x=["Dog","Cat","Rat"]
+y=["Dog","Cat","Rat"]
+z=["DOG","CAT","RAT"]
+if(x==y):
+print(true)
+else
+print(false)
+if(x==z):
+print(true)
+else
+print(false)
